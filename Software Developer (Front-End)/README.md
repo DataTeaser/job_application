@@ -22,5 +22,6 @@ Datateaser is looking for a front-end software developer with a good eye for des
 - Python (nice-to-have)
 - Good communication skills (nice-to-have)
 
-To apply, create a pull request with a dummy text file in [this repository](https://github.com/DataTeaser/job_application). Include your name, email, the position you are applying for, and a simple cover letter why you want to work with us at Datateaser.
+To apply, create a pull request with a dummy text file in [this repository](https://github.com/DataTeaser/job_application). In it, write the position you are applying for and an email where we can contact you.
 
+For questions or clarifications, you can create a Github issue about it.
