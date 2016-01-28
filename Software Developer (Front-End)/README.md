@@ -25,3 +25,5 @@ Datateaser is looking for a front-end software developer with a good eye for des
 To apply, fork then create a pull request with a dummy text file in [this repository](https://github.com/DataTeaser/jobs). In it, write the position you are applying for and an email where we can contact you.
 
 For questions or clarifications, you can create a Github issue about it.
+
+To know more about Datateaser, check our [website](http://www.datateaser.com/) or our [Facebook page](https://www.facebook.com/Datateaser-1559763620930573/)
