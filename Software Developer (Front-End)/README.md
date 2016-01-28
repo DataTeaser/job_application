@@ -1,7 +1,7 @@
 # Software Developer (Front-End)
 Website: [http://www.datateaser.com/](http://www.datateaser.com/)
 
-Office: [The One Executive Building, West Avenue (near Q. Ave.), Quezon City](https://www.google.com.ph/maps/search/The+One+Executive+Building,+West+Avenue,+Quezon+City,+Metro+Manila/@14.6380162,121.0255337,20.08z?hl=en)
+Office Location: [The One Executive Building, West Avenue (near Q. Ave.), Quezon City](https://www.google.com.ph/maps/search/The+One+Executive+Building,+West+Avenue,+Quezon+City,+Metro+Manila/@14.6380162,121.0255337,20.08z?hl=en)
 
 ##### Entry Level
 
