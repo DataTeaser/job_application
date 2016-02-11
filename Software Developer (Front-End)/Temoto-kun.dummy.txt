@@ -1,0 +1,13 @@
+Greetings!
+
+I was referred to by someone in your company. Having acquired sufficient technical skills and a year and a half of previous work experience, I would like to apply as a Software Developer (Front-End).
+
+I am knowledgeable in popular CSS frameworks such as Foundation and Bootstrap, as well as libraries such as jQuery, AngularJS, and React. I have tried building Web applications with D3.js. I am also well-acquainted of building hybrid mobile apps, mobile apps built from Web technologies, such as Ionic + Cordova. I have been brushing up PHP through Laravel and WordPress as well.
+
+I am able to work with groups, yet I prefer working alone by being indicated the correct and preferred steps in solving problems. Nevertheless, meeting new peers will be an exciting experience for me.
+
+You can contact me at allan.crisostomo@pup.edu.ph.
+
+Thank you very much.
+
+ALLAN V. CRISOSTOMO
